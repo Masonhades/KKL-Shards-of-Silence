@@ -9,12 +9,8 @@
       "sha1": "219624a10fd5fac1e6b3bb6414af9353dc12ec34"
     },
     {
-      "path": "content/mods/create-garnished.json",
-      "sha1": "f7abc5caf25f906659830198814604cc52fde11c"
-    },
-    {
       "path": "content/mods/create.json",
-      "sha1": "9ecb5f240e6aa0f107e2e18107e3664656ebd302"
+      "sha1": "2e10a7f44a0789602ba07efdc3d65eb0fb75cc88"
     },
     {
       "path": "content/mods/entityculling.json",
@@ -23,10 +19,6 @@
     {
       "path": "content/mods/ferrite-core.json",
       "sha1": "29f87c9a4280abe96b7c7266488d2d4cf323be15"
-    },
-    {
-      "path": "content/mods/garnished-kubejs.json",
-      "sha1": "9392140903497b5ee2fd1266a9758a6991a78b1a"
     },
     {
       "path": "content/mods/immediatelyfast.json",
@@ -46,11 +38,11 @@
     },
     {
       "path": "content/mods/kubejs-create.json",
-      "sha1": "2456b9a5f9738b4e77f3f0c808854b107888d9c6"
+      "sha1": "7ca4bb822dd1e42ad755a70ce72d1fdc0a1033a3"
     },
     {
       "path": "content/mods/kubejs.json",
-      "sha1": "47e8751ed60bd00badc29a1d3c256bd0dc8e045e"
+      "sha1": "c90ccf7e5128893d1451537c62f1be79ec0c5f7b"
     },
     {
       "path": "content/mods/lithium.json",

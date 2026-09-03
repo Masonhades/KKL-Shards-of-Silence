@@ -1,6 +1,6 @@
 # KKL - Shards of Silence
 
-**Minecraft 1.21.1 · neoforge 21.1.249**, 17 mods (3 dependencies)
+**Minecraft 1.21.1 · neoforge 21.1.249**, 16 mods (2 dependencies)
 
 ## Contents
 
@@ -8,7 +8,6 @@
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.10.5`
 - [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
-- [Garnished KubeJS](https://modrinth.com/project/garnished-kubejs) `0.2.2+1.21.1`
 - [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.13+1.21.1-neoforge`
 - [Immersive Engineering](https://modrinth.com/project/immersiveengineering) `12.4.2-194`
 - [Iris Shaders](https://modrinth.com/project/iris) `1.8.14-beta.1+1.21.1-neoforge`
