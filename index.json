@@ -1,0 +1,84 @@
+{
+  "files": [
+    {
+      "path": "content/mods/appleskin.json",
+      "sha1": "0d7464a310020b7a0ce306927a2f66e63abf2d6b"
+    },
+    {
+      "path": "content/mods/better-advanced-tooltips.json",
+      "sha1": "219624a10fd5fac1e6b3bb6414af9353dc12ec34"
+    },
+    {
+      "path": "content/mods/create-garnished.json",
+      "sha1": "f7abc5caf25f906659830198814604cc52fde11c"
+    },
+    {
+      "path": "content/mods/create.json",
+      "sha1": "9ecb5f240e6aa0f107e2e18107e3664656ebd302"
+    },
+    {
+      "path": "content/mods/entityculling.json",
+      "sha1": "ad43232487c3442c2992f7fe5cbdcebe8324b6b4"
+    },
+    {
+      "path": "content/mods/ferrite-core.json",
+      "sha1": "29f87c9a4280abe96b7c7266488d2d4cf323be15"
+    },
+    {
+      "path": "content/mods/garnished-kubejs.json",
+      "sha1": "9392140903497b5ee2fd1266a9758a6991a78b1a"
+    },
+    {
+      "path": "content/mods/immediatelyfast.json",
+      "sha1": "8bcedbfd1ca2f1e89db98fa0a8e02c53af7e718f"
+    },
+    {
+      "path": "content/mods/immersiveengineering.json",
+      "sha1": "a0c880457c4f59e9db2f7362d4a36782594c9834"
+    },
+    {
+      "path": "content/mods/iris.json",
+      "sha1": "fd3bd04e5b98187bcd19b96d3a9062cd1f560643"
+    },
+    {
+      "path": "content/mods/jade.json",
+      "sha1": "71a09e1c1e6a3436a1fdb40bfe446d06fc35a0cc"
+    },
+    {
+      "path": "content/mods/kubejs-create.json",
+      "sha1": "2456b9a5f9738b4e77f3f0c808854b107888d9c6"
+    },
+    {
+      "path": "content/mods/kubejs.json",
+      "sha1": "47e8751ed60bd00badc29a1d3c256bd0dc8e045e"
+    },
+    {
+      "path": "content/mods/lithium.json",
+      "sha1": "51309bafcbab940efe3f2100171a6f673f901d90"
+    },
+    {
+      "path": "content/mods/modernfix.json",
+      "sha1": "0cdc85e2e4b152ebac1171351361fd521f7bd355"
+    },
+    {
+      "path": "content/mods/mouse-tweaks.json",
+      "sha1": "9f6e2f2f1f2d235a51fb654250430398c8283a4f"
+    },
+    {
+      "path": "content/mods/reeses-sodium-options.json",
+      "sha1": "9ceb36f39a9d96452aaa65580cab03ffc470a5a8"
+    },
+    {
+      "path": "content/mods/rhino.json",
+      "sha1": "c9524753f7d111645155084793a8760849e56294"
+    },
+    {
+      "path": "content/mods/sodium-extra.json",
+      "sha1": "24d344a97ca9666b5ca9c3448a6f6f545320ea99"
+    },
+    {
+      "path": "content/mods/sodium.json",
+      "sha1": "767e843f6633d041cd0fe8dd0eff130140b406ed"
+    }
+  ]
+}

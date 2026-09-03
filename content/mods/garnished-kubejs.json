@@ -1,0 +1,23 @@
+{
+  "name": "Garnished KubeJS",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "rspAgyfe",
+      "slug": "garnished-kubejs",
+      "versionId": "oOYhGsqb",
+      "versionNumber": "0.2.2+1.21.1",
+      "filename": "garnished_kubejs-0.2.2+1.21.1-neoforged.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/rspAgyfe/versions/oOYhGsqb/garnished_kubejs-0.2.2%2B1.21.1-neoforged.jar",
+      "sha1": "7ec5c93ef4e557400564138237ee381837582593",
+      "sha512": "473facea0d7305080536dc0cf15cadd7c0c61b6d9bfde3b3f11a232e8313038ff0d2717441c08a7b5886fb22cdbf9f5c995c218a231eaf9866babea331d1db93",
+      "fileSize": 14329
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
